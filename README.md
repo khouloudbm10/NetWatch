@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # NetWatch — Network Monitoring & Diagnostics
 
 NetWatch is a Java-based network diagnostics project
@@ -63,7 +61,6 @@ Use only on systems you own or are authorized to test.
 - [ ] Historical availability statistics
 - [ ] Java Swing dashboard
 - [ ] Automated tests
-=======
+
 # NetWatch
 Java-based network monitoring and TCP diagnostics tool
->>>>>>> 
