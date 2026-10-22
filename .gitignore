@@ -1,0 +1,7 @@
+
+out/
+*.class
+.vscode/
+.idea/
+.DS_Store
+reports/*.csv
