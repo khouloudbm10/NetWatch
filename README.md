@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # NetWatch — Network Monitoring & Diagnostics
 
@@ -62,3 +63,7 @@ Use only on systems you own or are authorized to test.
 - [ ] Historical availability statistics
 - [ ] Java Swing dashboard
 - [ ] Automated tests
+=======
+# NetWatch
+Java-based network monitoring and TCP diagnostics tool
+>>>>>>> 
