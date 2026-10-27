@@ -40,11 +40,11 @@ and one TCP port.
 
 ## Learning Objectives
 
-- Understand hostname resolution
-- Explore TCP client connections
-- Measure connection latency
-- Interpret connectivity failures
-- Practice Java exception handling
+- Understand hostname resolution.
+- Explore TCP client connections.
+- Measure connection latency.
+- Interpret connectivity failures.
+- Practice Java exception handling.
 
 ## Limitations
 
@@ -63,4 +63,4 @@ Use only on systems you own or are authorized to test.
 - [ ] Automated tests
 
 # NetWatch
-Java-based network monitoring and TCP diagnostics tool
+Java-based network monitoring and TCP diagnostics tool.
